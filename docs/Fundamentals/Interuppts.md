@@ -19,7 +19,7 @@ For every interrupt, there must be an interrupt service routine (ISR), or interr
 * For every interrupt, there is a fixed location in memory that holds the address of its interrupt service routine, ISR. 
 * The table of memory locations set aside to hold the addresses of ISRs is called as the Interrupt Vector Table.
 
-<img src="/img/isr.png"  height="800" width="800"/>
+![ISR](/img/isr.png)
 
 # Handling Multiple Devices: 
 When more than one device raises an interrupt request signal, then additional information is needed to decide which device to be considered first. The following methods are used to decide which device to select: Polling, Vectored Interrupts, and Interrupt Nesting. These are explained as following below. 

@@ -16,7 +16,7 @@ An ADC inputs an analog electrical signal such as voltage or current and outputs
 
 :::
 
-<img src="/img/ADC.png"  height="500" width="500"/>
+![ADC](/img/ADC.png)
 
 :::tip DAC
 
@@ -24,11 +24,11 @@ A DAC, on the other hand, inputs a binary number and outputs an analog voltage o
 
 :::
 
-<img src="/img/DAC.png"  height="500" width="500"/>
+![DAC](/img/DAC.png)
 
 Together, they are often used in digital systems to provide complete interface with analog sensors and output devices for control systems such as those used in automotive engine controls:
 
-<img src="/img/both.png"  height="500" width="500"/>
+![both](/img/both.png)
 
 ## Video for better understanding
 

@@ -7,7 +7,7 @@ sidebar_position: 2
 An input port has the direction register bit at 0, meaning the software can only read the values on the input pin.  
 An output port has the direction register bit at 1, meaning the software can read and write to the pin.
 
-<img src="/img/portsOverview.png"  height="500" width="500"/>
+![overview](/img/portsOverview.png)
 
 ## Digital Circuits of an Input and Output Port
 

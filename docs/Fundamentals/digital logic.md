@@ -13,8 +13,7 @@ The output of each digital circuit consists of a p-type transistor â€œon top ofâ
 * If the transistor is on, it is equivalent to a short circuit between its two output pins. 
 * Conversely, if the transistor is off, it is equivalent to an open circuit between its outputs pins.
 
-<img src="/img/binarybittf.png"  height="800" width="800"/>
-
+![Digital logic](/img/binarybittf.png)
 
 ## Video for better understanding
 
