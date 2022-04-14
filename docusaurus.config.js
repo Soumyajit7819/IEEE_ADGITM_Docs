@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'IEEE Embedded Sys. and IoT Docs ',
   tagline: 'Powering the next Gen with Embedded and IOT',
-  url: 'https://github.com/',
+  url: 'https://Soumyajit7819.github.io',
   baseUrl: '/IEEE_ADGITM_Docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
