@@ -14,7 +14,7 @@ tags: [facebook, hello, docusaurus]
 
 Want to develop core technical skills and flaunt them in your resume while applying for internships? Well, say no more! ✋
 
-<img src="/img/SIGposter.jpeg" height="400" width="400"/>
+![SIG1](/img/SIGposter.jpeg)
 
 Given the sudden rise in the demand and importance of Embedded System, `IEEE PES ADGITM` is organizing an SIG on `Introduction to Embedded Systems Design` for our IEEE members who want to do something tech related that will benefit them in the longer run.🔥
 
